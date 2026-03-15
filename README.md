@@ -291,17 +291,6 @@ Local Storage (Browser)
 Select Date Range
     ↓
 Send to AI API
-    ↓
-Claude Analyzes Data
-    ↓
-Generate Report with:
-    - Summary
-    - Symptom Patterns
-    - Mood Trends
-    - Recommendations
-    - Specialist Suggestions
-    ↓
-Display & Share Options
 ```
 
 ### AI Report Generation
