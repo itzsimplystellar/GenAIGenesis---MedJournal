@@ -293,18 +293,6 @@ Select Date Range
 Send to AI API
 ```
 
-### AI Report Generation
-
-MedJournal uses **Claude Sonnet 4** to intelligently analyze your health data:
-
-- **Symptom Analysis**: Identifies patterns, frequency, and trends
-- **Timeline Tracking**: Determines symptom duration and progression
-- **Mood Correlation**: Analyzes mood patterns and their relationship to symptoms
-- **Smart Recommendations**: Provides general wellness suggestions (not medical advice)
-- **Specialist Matching**: Suggests types of medical specialists relevant to your symptoms
-
-**Important**: Reports are for informational purposes only and do not constitute medical advice. Users should always consult with qualified healthcare providers.
-
 ---
 
 ## ️Configuration
