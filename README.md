@@ -1,4 +1,4 @@
-# MedJournal - Your Personal Health Companion
+# MedAssist - Your Personal Health Companion
 
 A modern, intelligent health journaling application that helps patients track their symptoms, mood, and health patterns, then generates AI-powered reports to share with healthcare providers.
 
